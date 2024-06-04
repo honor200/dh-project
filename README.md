@@ -5,9 +5,7 @@ This project is part of my Master's degree in Data Science (Digital Humanities).
 ## Table of Contents
 1. [Description](#description)
 2. [Technologies](#technologies)
-3. [Contributing](#contributing)
-4. [License](#license)
-5. [Contact](#contact)
+
 ## Technologies
 This project is built with:
 - Tensorflow's "Model" Model, vgg19 application, and Adam optimiser.
